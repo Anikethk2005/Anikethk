@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center;
+    color:black;
+    border:5px black outset;
+    background-color: rgb(218, 223, 158);
+}
+.c
+{
+    text-align:center;
+    color:red;
+    background-color: rgb(179, 220, 223);
+    border:5px black outset;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: radius 5px;
+    background-color: rgb(158, 167, 192);
+    border:5px black outset;
+  }
+  .d
+  {
+    text-align: center;
+    color:black;
+    border:5px black outset;
+    background-color: rgb(223, 140, 158);
+  }
+  
